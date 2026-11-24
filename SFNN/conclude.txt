@@ -1,0 +1,2 @@
+prove the framework that use there method that provide the network that can wire itself to optimal to every task they demostate
+and the combine mean they just train those 3 task in the same batch and show the result that network learn something compare to the other method
